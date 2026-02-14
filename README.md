@@ -187,8 +187,6 @@ Ensure you have the following installed:
 ### Installation
 
 #### 1️⃣ Clone the Repository
-
-```bash
 git clone https://github.com/AmitIngAI/medibook-pro.git
 cd medibook-pro
 
@@ -370,5 +368,3 @@ Amit Ingale
 <div align="center">
 ⭐ Star this repository if you found it helpful!
 Made with ❤️ by Amit Ingale
-
-</div> ```
