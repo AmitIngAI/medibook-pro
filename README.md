@@ -9,6 +9,10 @@
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Redis](https://img.shields.io/badge/Redis-7.0-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/AmitIngAI/medibook-pro?style=for-the-badge)](https://github.com/AmitIngAI/medibook-pro/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/AmitIngAI/medibook-pro?style=for-the-badge)](https://github.com/AmitIngAI/medibook-pro/network)
+[![GitHub Issues](https://img.shields.io/github/issues/AmitIngAI/medibook-pro?style=for-the-badge)](https://github.com/AmitIngAI/medibook-pro/issues)
 
 **[Live Demo](#) • [Documentation](#) • [Report Bug](#) • [Request Feature](#)**
 
