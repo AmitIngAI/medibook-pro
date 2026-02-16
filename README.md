@@ -14,11 +14,28 @@
 [![GitHub Forks](https://img.shields.io/github/forks/AmitIngAI/medibook-pro?style=for-the-badge)](https://github.com/AmitIngAI/medibook-pro/network)
 [![GitHub Issues](https://img.shields.io/github/issues/AmitIngAI/medibook-pro?style=for-the-badge)](https://github.com/AmitIngAI/medibook-pro/issues)
 
-**[Live Demo](#) • [Documentation](#) • [Report Bug](#) • [Request Feature](#)**
+## 🌐 Live Application
 
-</div>
+**🚀 [View Live Demo](https://medibook-pro-6svy.vercel.app/)**
 
----
+| Service | URL | Status |
+|---------|-----|--------|
+| **Frontend** | [medibook-pro.vercel.app](https://medibook-pro-6svy.vercel.app/) | ✅ Active |
+| **Backend API** | [medibook-pro-production.up.railway.app](https://medibook-pro-production.up.railway.app/api) | ✅ Active |
+| **Database** | Railway MySQL | 🔒 Private |
+
+
+### Test Credentials
+
+**Patient Account:**
+- Email: `rahul.sharma01@example.com`
+- Password: `Rahul@123`
+
+**Doctor Account:**
+- Email: `arjun.mehta01@example.com`  
+- Password: `Arjun@789`
+
+> ⚠️ Note: This is a demo application. Please do not use real personal/medical information.
 
 ## 📋 Table of Contents
 
@@ -277,24 +294,23 @@ View Full API Documentation →
 
 ### 🏠 Landing Page
 ![Landing Page](screenshots/landing-page.png)
-*Modern and responsive homepage with hero section and features*
+*Modern and responsive homepage - [View Live](https://medibook-pro-6svy.vercel.app/)*
 
 ### 🔐 Login Page
 ![Login](screenshots/login-page.png)
-*Secure authentication with JWT token-based system*
+*Secure JWT-based authentication*
 
 ### 👤 Patient Dashboard
 ![Patient Dashboard](screenshots/patient-dashboard.png)
-*Real-time appointment tracking and personal health records*
+*Real-time appointment tracking - [Try Demo](https://medibook-pro-6svy.vercel.app/login)*
 
 ### 👨‍⚕️ Doctor Dashboard
 ![Doctor Dashboard](screenshots/doctor-dashboard.png)
-*Manage appointments, view patient details, and track consultations*
+*Manage appointments and patient records*
 
 ### 🔧 Admin Panel
 ![Admin Panel](screenshots/admin-panel.png)
-*Complete system administration and analytics dashboard*
-
+*Complete system administration*
 
 🔒 Security
 This application implements industry-standard security practices:
@@ -339,15 +355,35 @@ cd frontend
 npm test
 npm run test:coverage
 
-📦 Deployment
-Backend (Railway):
-Push code to GitHub
-Connect Railway to repository
-Set environment variables
-Deploy automatically
+## 🚀 Deployment
 
-Frontend (Vercel):
-npm run build
+### Current Deployment
+
+✅ **Production Ready**
+
+- **Frontend:** Deployed on Vercel
+  - URL: https://medibook-pro-6svy.vercel.app
+  - Auto-deploy on `main` branch push
+  - Environment: `REACT_APP_API_URL`
+
+- **Backend:** Deployed on Railway
+  - URL: https://medibook-pro-production.up.railway.app
+  - Database: Railway MySQL (Persistent)
+  - Environment Variables: Securely configured
+
+- **CI/CD:** GitHub Actions
+  - Automated testing on PR
+  - Build verification on push
+  - [View Workflows](https://github.com/AmitIngAI/medibook-pro/actions)
+
+### Deployment Guide
+
+#### Frontend (Vercel)
+``bash
+# Automatic deployment
+git push origin main
+
+# Manual deployment
 vercel --prod
 
 🤝 Contributing
@@ -362,13 +398,23 @@ Fork the repository
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-📞 Contact
-Amit Ingale
+## 📞 Contact
 
-📧 Email: amitgingale@gmail.com
-💼 LinkedIn: linkedin.com/in/amitgingale07
-🐙 GitHub: @AmitIngAI
+**Amit Ingale**
+
+- 📧 Email: amitgingale@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/amit-ingale](https://linkedin.com/in/amitgingale07)
+- 🐙 GitHub: [@AmitIngAI](https://github.com/AmitIngAI)
+- 🌐 Live Demo: [MediBook Pro](https://medibook-pro-6svy.vercel.app/)
+
+---
 
 <div align="center">
-⭐ Star this repository if you found it helpful!
-Made with ❤️ by Amit Ingale
+
+### ⭐ Star this repository if you found it helpful!
+
+**Made with ❤️ by Amit Ingale**
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/AmitIngAI/medibook-pro)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/AmitIngAI/medibook-pro)
+</div>
