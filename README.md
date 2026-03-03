@@ -14,7 +14,7 @@
 [![GitHub Forks](https://img.shields.io/github/forks/AmitIngAI/medibook-pro?style=for-the-badge)](https://github.com/AmitIngAI/medibook-pro/network)
 [![GitHub Issues](https://img.shields.io/github/issues/AmitIngAI/medibook-pro?style=for-the-badge)](https://github.com/AmitIngAI/medibook-pro/issues)
 
-**[Live Demo](#) • [Documentation](#) • [Report Bug](#) • [Request Feature](#)**
+**[Live Demo](https://medibook-pro-front.onrender.com/)**
 
 </div>
 
@@ -362,13 +362,24 @@ Fork the repository
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-📞 Contact
-Amit Ingale
+div align="center">
 
-📧 Email: amitgingale@gmail.com
-💼 LinkedIn: linkedin.com/in/amitgingale07
-🐙 GitHub: @AmitIngAI
+## 👨‍💻 Amit Ingale  
 
-<div align="center">
-⭐ Star this repository if you found it helpful!
-Made with ❤️ by Amit Ingale
+📞 Contact  
+Developer Information  
+
+<br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitgingale@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amitgingale07)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmitIngAI)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://amitingale.vercel.app/)
+
+<br><br>
+
+⭐ **Show Your Support**  
+If this project helped you, please consider giving it a ⭐!
+
+</div>
+
