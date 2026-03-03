@@ -362,7 +362,7 @@ Fork the repository
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-div align="center">
+<div align="center">
 
 ## 👨‍💻 Amit Ingale  
 
