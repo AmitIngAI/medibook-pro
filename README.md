@@ -84,7 +84,7 @@ Traditional appointment booking systems are often fragmented, insecure, and lack
 | 👥 **User Management** | CRUD operations for all user types |
 | ⚙️ **System Configuration** | Manage fees, time slots, categories |
 
----
+```
 
 ## 🛠️ Tech Stack
 
@@ -174,7 +174,7 @@ Traditional appointment booking systems are often fragmented, insecure, and lack
 └────────────────┘ └────────────────┘
 
 
----
+
 
 ## 🚀 Getting Started
 
@@ -273,6 +273,7 @@ PUT	/appointments/{id}/confirm	Confirm appointment	✅ Doctor
 PUT	/appointments/{id}/cancel	Cancel appointment	✅ Both
 View Full API Documentation →
 
+```
 ## 📸 Screenshots
 
 ### 🏠 Landing Page
